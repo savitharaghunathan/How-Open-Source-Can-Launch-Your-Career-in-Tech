@@ -14,7 +14,7 @@ In this session, we’ll explore:
 - My personal OSS journey: from contributor to maintainer and mentor
 - How students can get started with OSS, including beginner-friendly projects
 - The impact of OSS on careers through community, skill-building, and global recognition
-- Debunking myths and showcasing non-code roles in OSS
+- Showcasing non-code roles in OSS
 
 ---
 
@@ -22,5 +22,5 @@ In this session, we’ll explore:
 
 - OSS is accessible to everyone: beginners, writers, designers, and coders alike.
 - Contributing helps build technical and non-technical skills that matter in industry.
-- It’s not about being perfect—it's about starting small and growing over time.
+- It’s not about being perfect. It's about starting small and growing over time.
 - Your GitHub profile can become a living resume of collaboration and learning.
